@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @HMROSS
+-  👀 I’m interested in ...React 
 - 👀 I’m interested in ...JS
-- 🌱 I’m currently learning ...JS
-- 💞️ I’m looking to collaborate on ...JS 
+- 🌱 I’m currently learning ... Haskell and Functional Programming 
+- 💞️ I’m looking to collaborate on ...React 
 - 📫 How to reach me ... mahmood.rossi@gmail.com
 
 <!---
